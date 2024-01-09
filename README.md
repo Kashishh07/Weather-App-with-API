@@ -1,1 +1,1 @@
-# Weather-App-with-API
+This minimalist weather app, built with HTML, CSS, and JavaScript, fetches real-time weather data from the OpenWeatherMap API. Users can input a city name, click "Get Weather," and instantly view the current temperature and weather description. A clean, user-friendly interface makes it a straightforward tool for checking weather conditions.
